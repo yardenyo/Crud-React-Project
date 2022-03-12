@@ -1,0 +1,12 @@
+.heading-text-div {
+  cursor: default;
+  user-select: none;
+  margin-top: 5rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.small-text {
+  font-weight: 200;
+  color: red;
+  opacity: 0.3;
+}

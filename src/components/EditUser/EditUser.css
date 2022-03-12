@@ -1,0 +1,30 @@
+.form-container {
+  width: 100%;
+  max-width: 530px;
+  padding: 15px;
+  margin: auto;
+}
+
+.heading-text {
+  text-align: center;
+  font-size: 3rem;
+  margin: 2rem 0 2rem 0;
+  font-family: "Poppins", sans-serif;
+  cursor: default;
+}
+
+.label-text {
+  font-size: 1.2rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .heading-text {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .heading-text {
+    font-size: 3rem;
+  }
+}
